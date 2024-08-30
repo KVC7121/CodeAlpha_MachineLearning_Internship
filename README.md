@@ -1,4 +1,6 @@
-# Internship Tasks Repository
+# CodeAlpha Internship - Machine Learning Projects - Repository
+
+Welcome to my GitHub repository, where I proudly present the projects I completed during my Machine Learning Internship at CodeAlpha. This repository features a collection of machine learning tasks that highlight the skills and knowledge I gained throughout my internship. Each project is a testament to my hands-on experience and growth in the field of machine learning, showcasing my ability to tackle real-world challenges with advanced techniques and methodologies.
 
 This repository contains four tasks completed as part of my internship. Each task includes a Jupyter notebook with the following details:
 
@@ -13,7 +15,7 @@ Develop a credit scoring model to predict the creditworthiness of individuals ba
 - Model evaluation using metrics such as accuracy, precision, recall, and ROC curves.
 
 **Dataset:**  
-[Credit Scoring Dataset](#) 
+[Credit Scoring Dataset](https://www.kaggle.com/datasets/kapturovalexander/bank-credit-scoring) 
 
 ---
 
@@ -28,7 +30,7 @@ Build a model that can recognize emotions in speech audio, classifying spoken se
 - Evaluation of model performance based on accuracy.
 
 **Dataset:**  
-[Speech Emotion Recognition Dataset](#) 
+[Speech Emotion Recognition Dataset](https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en) 
 
 ---
 
@@ -43,23 +45,30 @@ Create a system to recognize various handwritten characters or alphabets.
 - Evaluation based on accuracy of character recognition.
 
 **Dataset:**  
-[Handwritten Character Dataset](#) 
+[Handwritten Character Dataset](https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format) 
 
 ---
 
 ## Task 4: Disease Prediction from Medical Data
 
 **Objective:**  
-Predict the likelihood of a disease based on medical data, such as symptoms and patient history.
+Create a model to predict the likelihood of cardiovascular disease based on patient medical data, including features like age, height, weight, blood pressure, and various lifestyle indicators.
 
 **Approach:**  
-- Data cleaning and feature selection.
-- Model training using classification algorithms (e.g., Decision Trees, Support Vector Machines).
-- Evaluation using metrics like accuracy and precision.
+- Data preprocessing, including handling missing values, scaling numerical features, and encoding categorical variables.
+- Addressing class imbalance using SMOTE (Synthetic Minority Over-sampling Technique).
+- Splitting the data into training and testing sets for model evaluation.
+- Model training using multiple classifiers: Logistic Regression, Random Forest, and Gradient Boosting.
+- Evaluating the models using metrics such as accuracy, classification reports, confusion matrices, and ROC-AUC scores.
+- Implementing an ensemble model using a Voting Classifier to improve predictive performance.
 
 **Dataset:**  
 [Medical Data for Disease Prediction](#)
 
 ---
 
-Feel free to explore each task by opening the corresponding notebook.
+# Contact
+ - LinkedIn : [Kodi Venkata Chaitanya](www.linkedin.com/in/chaitanya-k-v)
+ - Email : kvchaitanya55@gmail.com
+
+Feel free to approach me 😄
